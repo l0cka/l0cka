@@ -15,14 +15,7 @@ I design and ship production AI systems, legal-tech tools, data products and nat
 
 - 🏛️ **[Policai](https://github.com/l0cka/policai)** — an [Australian AI policy tracker](https://policai.vercel.app) with reviewed, source-backed public data
 - ⚖️ **[CaseLaw Guard](https://github.com/l0cka/caselaw-guard)** — fail-closed case-law citation verification for legal agents and drafting workflows
-- 🧰 **[Kitroom](https://github.com/l0cka/kitroom)** — an early-stage native macOS control centre for coding-agent extensions across local and SSH hosts
 - 🧩 **[Agent skills and plugins](https://github.com/l0cka/agent-skills)** — shared skills, plugins and tooling for Codex and Claude Code
-
-## Selected work
-
-- 📞 **[Tideflow](https://www.tideflow.au/)** — a production AI receptionist that turns missed calls into qualified leads and booked jobs
-- 🛢️ **[Commodity](https://github.com/l0cka/commodity)** — an Australia and APAC oil and LNG market tracker
-- 🦞 **[OpenClaw](https://github.com/l0cka/openclaw)** — contributions to an open-source personal AI assistant
 
 ## What I'm working on
 
