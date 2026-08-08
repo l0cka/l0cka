@@ -1,8 +1,6 @@
 # Hi, I'm Dan 👋
 
-⚖️ **Sydney-based full-stack lawyer** | 🧠 **Legal AI and trustworthy agents** | 🛠️ **Software builder**
-
-I design and ship production AI systems, legal-tech tools, data products and native macOS utilities. I care about provenance, human review and systems that fail clearly when evidence is missing.
+Full-stack lawyer in Sydney. I build production AI systems, legal-tech tools, data products and native macOS utilities, and whatever I'm building I care about the same things: provenance, human review, and systems that fail clearly when evidence is missing.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -13,15 +11,14 @@ I design and ship production AI systems, legal-tech tools, data products and nat
 
 ## Start here
 
-- 🏛️ **[Policai](https://github.com/l0cka/policai)** — an [Australian AI policy tracker](https://policai.vercel.app) with reviewed, source-backed public data
-- ⚖️ **[CaseLaw Guard](https://github.com/l0cka/caselaw-guard)** — fail-closed case-law citation verification for legal agents and drafting workflows
-- 🧩 **[Agent skills and plugins](https://github.com/l0cka/agent-skills)** — shared skills, plugins and tooling for Codex and Claude Code
+- **[Policai](https://github.com/l0cka/policai)**: an [Australian AI policy tracker](https://policai.vercel.app) with reviewed, source-backed public data
+- **[CaseLaw Guard](https://github.com/l0cka/caselaw-guard)**: fail-closed case-law citation verification for legal agents and drafting workflows
+- **[Kitroom](https://github.com/l0cka/kitroom)**: a native macOS control centre for coding-agent skills, plugins and MCP servers, on local machines or over SSH
+- **[Agent skills](https://github.com/l0cka/agent-skills)**: skills, plugins and tooling shared between Codex and Claude Code
 
 ## What I'm working on
 
-- building AI products that connect speech, data, tools and real workflows
-- designing legal systems with traceable sources and explicit review gates
-- exploring how agents can act usefully without hiding uncertainty
+Connecting speech, data and tools to real legal workflows, with traceable sources and explicit review gates. The open question that interests me most is how agents can act usefully without hiding their uncertainty.
 
 ## GitHub activity
 
